@@ -1,12 +1,75 @@
-# React + Vite
+# 🍸 RumRush – Animated Cocktail UI Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**RumRush** is a sleek and modern web interface designed for a cocktail discovery concept. Built using **React** and **Vite**, it integrates **GSAP (GreenSock Animation Platform)** to deliver smooth, performance-optimized animations and an engaging user experience.
 
-Currently, two official plugins are available:
+This project showcases responsive design, elegant transitions, and clean UI/UX principles—ideal for lifestyle or mixology-themed web interfaces.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React-based component architecture
+- ⚡ Fast build and hot reload with Vite
+- 🎨 Styled using semantic HTML5 & modern CSS
+- 💥 GSAP-powered timeline animations
+- 📱 Responsive design across all screen sizes
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| React       | JavaScript library for building UIs |
+| Vite        | Lightning-fast dev server and bundler |
+| HTML5/CSS3  | Semantic structure and styling |
+| JavaScript (ES6+) | Logic and interactivity |
+| GSAP        | High-performance animation library |
+
+---
+
+## 📁 Folder Structure
+
+RumRush/
+├── public/ # Static assets
+├── src/
+│ ├── components/ # UI components
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
+
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the Repository
+
+```bash```
+git clone https://github.com/Aanchalll29/rumrush.git
+cd rumrush
+
+
+Install Dependencies
+npm install
+
+Run the Project
+npm run dev
+
+
+💡 Project Purpose
+- This project was built to practice:
+
+- Responsive front-end development
+
+- GSAP animation integration
+
+- Creating a portfolio-worthy UI concept
+
+
+
+📬 Contact
+Made with 💖 by Aanchal Chauhan.
+Let’s connect and collaborate!
